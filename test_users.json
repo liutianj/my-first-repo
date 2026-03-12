@@ -1,0 +1,26 @@
+[
+  {
+    "id": "user_01",
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "first_name": "John",
+    "last_name": "Doe",
+    "zip": "12345"
+  },
+  {
+    "id": "user_02",
+    "username": "locked_out_user",
+    "password": "secret_sauce",
+    "first_name": "Alice",
+    "last_name": "Wonder",
+    "zip": "54321"
+  },
+  {
+    "id": "user_03",
+    "username": "problem_user",
+    "password": "secret_sauce",
+    "first_name": "Bob",
+    "last_name": "Builder",
+    "zip": "99999"
+  }
+]
